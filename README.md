@@ -1,7 +1,7 @@
 # 💫 About Me:
-😈 &emsp; I'm Frontend Developer <br>
-💅 &emsp; Side Actor in making the Design <br>
-🧙 &emsp; Trying to reach me dimasroger@gmail.com <br>
+😈 &emsp; I'm Frontend Developer <br><br>
+💅 &emsp; Side Actor in making the Design <br><br>
+🧙 &emsp; Trying to reach me dimasroger@gmail.com <br><br>
 
 
 ## 🌐 Socials:
